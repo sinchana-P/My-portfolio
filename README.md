@@ -1,1 +1,2 @@
-https://sinchana-p.github.io/My-portfolio/
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter%2FSinchana_p_03)
+
