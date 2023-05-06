@@ -376,8 +376,53 @@ section{
 
 .portfolio .box-container .box:hover img{
     transform: scale(1.2);
+    
 }
 /* portfolio section ends */
+
+
+
+
+
+/* portfolio section for index page starts */
+
+.portfolio .box-container-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap:wrap;
+    padding:2rem 0;
+    padding-top: 4rem;
+}
+
+.portfolio .box-container-home .box-home{
+    height: 20rem;
+    width: 40rem;
+    border-radius: 1rem;
+    margin: 2rem;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.portfolio .box-container-home .box-home img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.portfolio .box-container-home .box-home:hover img{
+    transform: scale(1.2); 
+}
+
+/* portfolio section for index page ends*/
+
+
+
+
+
+
+
 
 /* contact section starts */
 
