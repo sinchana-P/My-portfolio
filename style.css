@@ -488,6 +488,16 @@ section{
     padding-right: 1rem;
     color:var(--gray);
 }
+
+.info h3 a{
+    cursor: pointer;
+    color: white;
+}
+
+.info h3 a:hover{
+    cursor: pointer;
+    color: rgb(173, 175, 237);
+}
 /* contact section ends */
 
 
